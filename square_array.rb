@@ -1,5 +1,5 @@
 def square_array(array)
-  array.each do 
-    [index}*[index]
+  array.each do
+    [index]*[index]
   binding.pry
 end
